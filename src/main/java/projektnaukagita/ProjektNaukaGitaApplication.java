@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProjektNaukaGitaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ProjektNaukaGitaApplication.class, args);
-    }
+        SpringApplication.run(ProjektNaukaGitaApplication.class, args
+        fsdfsdfds
+                dsfdsklfj
 
-}
+        );
+    }
