@@ -10,6 +10,13 @@ public class ProjektNaukaGitaApplication {
         SpringApplication.run(ProjektNaukaGitaApplication.class, args
         fsdfsdfds
                 dsfdsklfj
+<<<<<<< Updated upstream
 
+=======
+fdsfdsf
+                dfsdfsd
+                cxzxc
+                fff
+>>>>>>> Stashed changes
         );
     }
