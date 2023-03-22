@@ -14,5 +14,6 @@ public class ProjektNaukaGitaApplication {
                 dfsdfsd
                 cxzxc
                 fff
+                sds
         );
     }
