@@ -10,11 +10,12 @@ public class ProjektNaukaGitaApplication {
         SpringApplication.run(ProjektNaukaGitaApplication.class, args
         fsdfsdfds
                 dsfdsklfj
-
+dasd
                 dfsdfsd
                 cxzxc
                 fff
                 sds
                 dfsdfds
+                asdsa
         );
     }
