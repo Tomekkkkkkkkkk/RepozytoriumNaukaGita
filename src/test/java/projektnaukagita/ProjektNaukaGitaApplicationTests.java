@@ -8,6 +8,7 @@ class ProjektNaukaGitaApplicationTests {
 
     @Test
     void contextLoads() {
+        sdsds
     }
 
 }
